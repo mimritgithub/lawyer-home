@@ -1,0 +1,254 @@
+@media (min-width: 279px) and (max-width: 319px){
+    /*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        color: #414988;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: capitalize;
+        margin: 0px 0px 0px 0px;
+    }
+    .slider h1 {
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 1.4em;
+        padding: 80px 0px;
+        margin: 40px 0px 80px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+    }
+    .banner {
+        width: 100%;
+        padding: 40px 0px 0px;
+    }
+    .inner-banner {
+        width: 100%;
+        padding: 40px 0px 20px 0px;
+        text-align: center;
+    }
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        padding: 0px 0px 10px;
+    }
+    .our-atorney .title {
+        padding: 40px 0px;
+        text-align: center;
+    }
+    .language {
+        width: 100%;
+        padding: 40px 0px 0px;
+        /* text-align: center; */
+    }
+    .inner-language {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    /*css end */
+}
+    @media (min-width: 320px) and (max-width: 480px){
+    /*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        color: #414988;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: capitalize;
+        margin: 0px 0px 0px 0px;
+    }
+    .slider h1 {
+        font-size: 55px;
+        font-weight: 700;
+        line-height: 1.2em;
+        padding: 80px 0px;
+        margin: 80px 0px 0px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+    }
+    .inner-banner {
+        width: 100%;
+        padding: 40px 0px 0px 0px;
+        text-align: center;
+    }
+    .inner-banner p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        text-transform: capitalize;
+        color: #cdcccb;
+        padding: 0px 0px 20px;
+    }
+    .banner {
+        width: 100%;
+        padding: 80px 0px 0px;
+    }
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        padding: 0px 0px 20px;
+    }
+    .our-atorney .title {
+        padding: 40px 0px;
+        text-align: center;
+    }
+    .language {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .inner-language {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    /*css end */
+    }
+    @media (min-width: 480px) and (max-width: 768px){
+    /*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        color: #414988;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: capitalize;
+        margin: 0px 0px 0px 0px;
+    }
+    .slider h1 {
+        font-size: 55px;
+        font-weight: 700;
+        line-height: 1.4em;
+        padding: 0px 0px;
+        margin: 80px 0px 0px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+    }
+    .inner-banner {
+        width: 100%;
+        padding: 40px 0px 0px 0px;
+        text-align: center;
+    }
+    .inner-banner p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        text-transform: capitalize;
+        color: #cdcccb;
+        padding: 0px 0px 20px;
+    }
+    .banner-img {
+        width: 100%;
+        text-align: center;
+    }
+    .banner {
+        width: 100%;
+        padding: 80px 0px 0px;
+    }
+    .feature {
+        width: 100%;
+        background: #f7f8f8;
+        text-align: center;
+        padding: 80px 0px;
+    }
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        text-align: center;
+        padding: 0px 0px 20px;
+    }
+    .our-atorney .title {
+        padding: 100px 0px;
+        text-align: center;
+    }
+    .inner-atorney-img {
+        width: 100%;
+        position: relative;
+        text-align: center;
+    }
+    .language {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .inner-language {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+
+    /*css end */
+    }
+    @media (min-width: 769px) and (max-width: 1024px){
+    /*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        color: #414988;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: capitalize;
+        margin: 0px 0px 0px 0px;
+    }
+    .slider h1 {
+        font-size: 70px;
+        font-weight: 700;
+        line-height: 1.4em;
+        padding: 0px 0px;
+        margin: 80px 0px 0px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+    }
+    .our-atorney .title h2 {
+        font-size: 40px;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin: 15px 0px 25px;
+        color: #fff;
+    }
+
+    .inner-banner {
+        width: 100%;
+        padding: 40px 0px 0px 0px;
+        text-align: center;
+    }
+    .inner-banner p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        text-transform: capitalize;
+        color: #cdcccb;
+        padding: 0px 0px 20px;
+    }
+    .banner-img {
+        width: 100%;
+        text-align: center;
+    }
+    .banner {
+        width: 100%;
+        padding: 80px 0px 0px;
+    }
+    .feature {
+        width: 100%;
+        background: #f7f8f8;
+        text-align: center;
+        padding: 80px 0px;
+    }
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        text-align: center;
+        padding: 0px 0px 20px;
+    }
+    .our-atorney .title {
+        padding: 100px 0px;
+        text-align: center;
+    }
+    .inner-atorney-img {
+        width: 100%;
+        position: relative;
+        text-align: center;
+    }
+    .language {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .inner-language {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    /*css end*/
+    }
